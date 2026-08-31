@@ -25,7 +25,7 @@ check out what i'm building: **[christianmauerer.com](https://christianmauerer.c
 
 ### Elsewhere
 
-[christianmauerer.com](https://christianmauerer.com) · [LinkedIn](https://www.linkedin.com/in/christianmauerer)
+[christianmauerer.com](https://christianmauerer.com)
 
 <br>
 

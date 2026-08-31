@@ -60,7 +60,7 @@ write("welcome-header.svg", svg(900, 216, f'''
         fill="url(#hg)" textLength="800" lengthAdjust="spacingAndGlyphs"
         >welcome to my github portfolio</text>
   <text x="450" y="162" text-anchor="middle" font-size="16.5" fill="{INK}"
-        >AI Solutions Architect &#183; Naples, Florida &#183; AI made with Love.</text>
+        >AI Solutions Architect &#183; AI made with Love.</text>
 </g>
 <rect x="330" y="188" width="240" height="6" rx="3" fill="url(#hg)">
   <animate attributeName="width" values="240;360;240" dur="6s" repeatCount="indefinite"/>
