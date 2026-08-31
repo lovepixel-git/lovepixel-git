@@ -184,7 +184,7 @@ write("badges.svg", svg(x - gap, 32, parts, flow("bg", "8s"), "badges"))
 # ---- 7. footer ---------------------------------------------------------
 write("footer.svg", svg(900, 74, f'''
 <g transform="translate(450 30)">
-  <path d="M0,7 C-11,-4 -8,-15 0,-9 C8,-15 11,-4 0,7 Z" fill="url(#fg)">
+  <path d="M0,9.8 C-1.9,6.9 -10.5,1.2 -10.5,-4.3 C-10.5,-8.3 -7.4,-10.6 -4.3,-10.6 C-2,-10.6 -0.4,-9 0,-7.6 C0.4,-9 2,-10.6 4.3,-10.6 C7.4,-10.6 10.5,-8.3 10.5,-4.3 C10.5,1.2 1.9,6.9 0,9.8 Z" fill="url(#fg)">
     <animateTransform attributeName="transform" type="scale"
       values="1;1.18;1;1.08;1" dur="1.9s" repeatCount="indefinite"/>
   </path>
